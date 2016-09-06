@@ -12,9 +12,20 @@ namespace WebJobTest
     {
         // This function will get triggered/executed when a new message is written 
         // on an Azure Queue called queue.
-        public static void ProcessQueueMessage([QueueTrigger("queue")] string message, TextWriter log)
+        public static void ProcessQueueMessage(
+            [QueueTrigger("queue")] string message, 
+            TextWriter log)
         {
             log.WriteLine(message);
+        }
+
+        // Function to get all png files added in input container
+        // and rename the file in output container
+        public static void RenameFile(
+            [BlobTrigger("input/{blob-name}.png")] Stream input,
+            [BlobTrigger("output/processed_{blob-name}_final.png")] Stream output)
+        {
+            input.CopyTo(output);
         }
     }
 }
