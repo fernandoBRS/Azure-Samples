@@ -1,0 +1,1 @@
+C:\source\azure-tests\WebJobTest\WebJobTest\bin\Debug\WebJobTest.exe.config
