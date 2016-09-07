@@ -118,4 +118,3 @@ C:\source\Azure-Samples\AzureSamples\WebJobTest\bin\Debug\ko\System.Spatial.reso
 C:\source\Azure-Samples\AzureSamples\WebJobTest\bin\Debug\ru\System.Spatial.resources.dll
 C:\source\Azure-Samples\AzureSamples\WebJobTest\bin\Debug\zh-Hans\System.Spatial.resources.dll
 C:\source\Azure-Samples\AzureSamples\WebJobTest\bin\Debug\zh-Hant\System.Spatial.resources.dll
-C:\source\Azure-Samples\AzureSamples\WebJobTest\obj\Debug\WebJobTest.csprojResolveAssemblyReference.cache
