@@ -4,3 +4,6 @@ C:\source\Azure-Samples\WebJobTest\CloudDesignPatterns\bin\Debug\CloudDesignPatt
 C:\source\Azure-Samples\WebJobTest\CloudDesignPatterns\obj\Debug\CloudDesignPatterns.csprojResolveAssemblyReference.cache
 C:\source\Azure-Samples\WebJobTest\CloudDesignPatterns\obj\Debug\CloudDesignPatterns.exe
 C:\source\Azure-Samples\WebJobTest\CloudDesignPatterns\obj\Debug\CloudDesignPatterns.pdb
+C:\source\Azure-Samples\AzureSamples\CloudDesignPatterns\obj\Debug\CloudDesignPatterns.csprojResolveAssemblyReference.cache
+C:\source\Azure-Samples\AzureSamples\CloudDesignPatterns\obj\Debug\CloudDesignPatterns.exe
+C:\source\Azure-Samples\AzureSamples\CloudDesignPatterns\obj\Debug\CloudDesignPatterns.pdb

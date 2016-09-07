@@ -10,7 +10,7 @@ namespace CloudDesignPatterns.CacheAsidePattern
 
         public CacheAside()
         {
-            cache = new DataCache("cacheName");   
+            cache = new DataCacheFactory().GetCache("cache-name");   
         }
 
         private MyEntity GetMyEntity(int id)
