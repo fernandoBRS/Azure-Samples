@@ -22,3 +22,8 @@ Some Powershell scripts to be used in Azure solutions.
 <ul>
 <li>Deployment and Configuration of WebJobs to execute daily</li>
 </ul>
+
+## 2. Virtual Machines
+<ul>
+<li>Uploading an on-premises VM to Azure Blob Storage</li>
+</ul>
