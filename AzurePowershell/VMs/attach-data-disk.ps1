@@ -1,4 +1,5 @@
 # Attaching data disks to a VM
+# Created by Fernando de Oliveira
 
 $cloudService = "youCloudServiceName"
 $vmName = "myVM"
