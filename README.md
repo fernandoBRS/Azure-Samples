@@ -26,4 +26,5 @@ Some Powershell scripts to be used in Azure solutions.
 ## 2. Virtual Machines
 <ul>
 <li>Uploading an on-premises VM to Azure Blob Storage</li>
+<li>Creating OS and Data disks from a VHD</li>
 </ul>
