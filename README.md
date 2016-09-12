@@ -14,6 +14,7 @@ C# project including some Cloud Design Patterns and WebJobs samples to be used i
 <li>Blob Trigger</li>
 </ul>
 
+<br>
 #AzurePowershell
 Some Powershell scripts to be used in Azure solutions.
 
