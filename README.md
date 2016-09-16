@@ -30,4 +30,9 @@ Some Powershell scripts to be used in Azure solutions.
 <li>Attaching Data disks to a Virtual Machine</li>
 <li>Capturing a VM Image from an existing Virtual Machine</li>
 <li>Adding the Custom Script Extension to a Virtual Machine</li>
+<li>Desired State Configuration (DSC)
+    <ul>
+        <li>Configuring Hyper-V roles, IIS, Failover Clustering and Files</li>
+    </ul>
+</li>
 </ul>
