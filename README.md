@@ -29,4 +29,5 @@ Some Powershell scripts to be used in Azure solutions.
 <li>Creating OS and Data disks from a VHD</li>
 <li>Attaching Data disks to a Virtual Machine</li>
 <li>Capturing a VM Image from an existing Virtual Machine</li>
+<li>Adding the Custom Script Extension to a Virtual Machine</li>
 </ul>
