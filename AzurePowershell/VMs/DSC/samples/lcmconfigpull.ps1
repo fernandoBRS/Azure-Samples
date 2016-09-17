@@ -1,5 +1,5 @@
 [DSCLocalConfigurationManager()]
-configuration LCMConfig
+configuration LCMConfigPull
 {
     Node "Server001"
     {

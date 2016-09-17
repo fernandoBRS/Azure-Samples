@@ -1,8 +1,8 @@
-configuration MyWebPageConfig
+configuration WebPage
 {
     Node localhost
     {
-        // Ensures that IIS is enabled
+        # Ensures that IIS is enabled
         
         WindowsFeature IIS
         {
@@ -10,8 +10,8 @@ configuration MyWebPageConfig
             Name = "Web-Server"
         }
 
-        // Ensures that Hyper-V role is installed
-        // Path to log the operation
+        # Ensures that Hyper-V role is installed
+        # Path to log the operation
 
         WindowsFeature HyperVRole
         {
@@ -20,7 +20,7 @@ configuration MyWebPageConfig
             LogPath = "C:\DSCLog_HyperV.txt"
         }
 
-        // Ensures that Failover features is removed
+        # Ensures that Failover features is removed
 
         WindowsFeature FailoverClusterRole
         {
@@ -28,9 +28,9 @@ configuration MyWebPageConfig
             Name = "Failover-Clustering"
         }
 
-        // Copying a single file as default website
-        // "Force" property will copy the file in destination path even if there is any error
-        // "Type" property will indicate if the resource is a file or a directory.
+        # Copying a single file as default website
+        # "Force" property will copy the file in destination path even if there is any error
+        # "Type" property will indicate if the resource is a file or a directory.
 
         File WebPage
         {
