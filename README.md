@@ -35,6 +35,7 @@ Some Powershell scripts to be used in Azure solutions.
         <li>Configuring Hyper-V roles, IIS, Failover Clustering and Files</li>
         <li>Local Configuration Manager with Push strategy</li>
         <li>Local Configuration Manager with Pull strategy</li>
+        <li>Creating the DSC Configuration Package</li>
     </ul>
 </li>
 </ul>
