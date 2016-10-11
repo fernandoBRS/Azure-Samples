@@ -38,4 +38,10 @@ Some Powershell scripts to be used in Azure solutions.
         <li>Creating the DSC Configuration Package</li>
     </ul>
 </li>
+<li>Load Balance and VM Endpoints
+    <ul>
+        <li>Configuring a VM endpoint with idle timeout</li>
+        <li>Configuring a Load Balance endpoint set with idle timeout</li>
+    </ul>
+</li>
 </ul>
