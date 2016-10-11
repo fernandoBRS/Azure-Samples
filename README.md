@@ -44,4 +44,5 @@ Some Powershell scripts to be used in Azure solutions.
         <li>Configuring a Load Balance endpoint set with idle timeout</li>
     </ul>
 </li>
+<li>Scaling up and down a VM instance size</li>
 </ul>
