@@ -45,4 +45,5 @@ Some Powershell scripts to be used in Azure solutions.
     </ul>
 </li>
 <li>Scaling up and down a VM instance size</li>
+<li>Configuring availability sets for VMs</li>
 </ul>
