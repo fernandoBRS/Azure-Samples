@@ -46,5 +46,10 @@ Some Powershell scripts to be used in Azure solutions.
 </li>
 <li>Scaling up and down a VM instance size</li>
 <li>Configuring availability sets for VMs</li>
-<li>Creating a file share with Azure File Storage</li>
+<li>Fil Storage
+    <ul>
+        <li>Creating a file share</li>
+        <li>Uploading and downloading files</li>
+    </ul>
+</li>
 </ul>
