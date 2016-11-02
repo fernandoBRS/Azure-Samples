@@ -1,14 +1,23 @@
 # AzureSamples
 C# project including some Cloud Design Patterns and WebJobs samples to be used in projects.
 
-## 1. Cloud Design Patterns
+### 1. Cloud Design Patterns
 <ul>
 <li>Cache-Aside</li>
 <li>Circuit Breaker</li>
 <li>Retry</li>
 </ul>
 
-## 2. WebJobs
+### 2. WebJobs
+<ul>
+<li>Creating a container</li>
+<li>Uploading block and page blobs</li>
+<li>Listing all blobs</li>
+<li>Downloading blobs</li>
+<li>Deleting blobs</li>
+</ul>
+
+### 3. Blob Storage
 <ul>
 <li>Queue Trigger</li>
 <li>Blob Trigger</li>
@@ -18,12 +27,12 @@ C# project including some Cloud Design Patterns and WebJobs samples to be used i
 #AzurePowershell
 Some Powershell scripts to be used in Azure solutions.
 
-## 1. WebJobs
+### 1. WebJobs
 <ul>
 <li>Deployment and Configuration of WebJobs to execute daily</li>
 </ul>
 
-## 2. Virtual Machines
+### 2. Virtual Machines
 <ul>
 <li>Uploading an on-premises VM to Azure Blob Storage</li>
 <li>Creating OS and Data disks from a VHD</li>
