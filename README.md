@@ -10,17 +10,17 @@ C# project including some Cloud Design Patterns and WebJobs samples to be used i
 
 ### 2. WebJobs
 <ul>
+<li>Queue Trigger</li>
+<li>Blob Trigger</li>
+</ul>
+
+### 3. Blob Storage
+<ul>
 <li>Creating a container</li>
 <li>Uploading block and page blobs</li>
 <li>Listing all blobs</li>
 <li>Downloading blobs</li>
 <li>Deleting blobs</li>
-</ul>
-
-### 3. Blob Storage
-<ul>
-<li>Queue Trigger</li>
-<li>Blob Trigger</li>
 </ul>
 
 <br>
