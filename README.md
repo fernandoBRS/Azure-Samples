@@ -23,6 +23,12 @@ C# project including some Cloud Design Patterns and WebJobs samples to be used i
 <li>Deleting blobs</li>
 </ul>
 
+### 4. Table Storage
+<ul>
+<li>CRUD Operations</li>
+<li>Filtering elements</li>
+</ul>
+
 <br>
 #AzurePowershell
 Some Powershell scripts to be used in Azure solutions.
